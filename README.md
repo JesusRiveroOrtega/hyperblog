@@ -1,2 +1,2 @@
 # hyperblog
-This file me está dejando con canas :(
+Blog para el curso de platzi
